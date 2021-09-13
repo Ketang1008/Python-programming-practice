@@ -1,0 +1,5 @@
+f=open('another.txt','w')
+f.write("Ketan is very intelligent and is the most richest person on this planet")
+f.write("Ketan is lovabale by all")
+f.write("Ketan has gained self respect at a great level")
+f.close()
